@@ -1,4 +1,4 @@
-# anerishah97.github.io
+# My Portfolio
 
 My personal page, portfolio of my projects, some stuff about myself and blog posts on my projects (I really haven't gotten around writing them yet). 
 
